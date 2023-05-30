@@ -17,7 +17,7 @@ Inicio
        se (idade>29) e (idade<=45) entao
         escreval("Valor a pagar R$120,00")
        senao
-          se (idade>45) e (idade=<59)  entao
+          se (idade>45) e (idade<=59)  entao
            escreval("Valor a pagar R$150,00")
           senao
             se (idade>59) e (idade<=65) entao
