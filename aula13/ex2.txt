@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int n1, n2, n3, n4, n5, total;
+    
+    std::cout << "Digite um número: ";
+    scanf ("%i""%i",&n1,&n2,&n3,&n4,&n5);
+    
+    total = (n1+n2+n3+n4+n5)/5;
+    
+    printf ("A média é",total);
+    return 0;
+}
